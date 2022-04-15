@@ -1,0 +1,17 @@
+ra 1 c
+rb 2 c
+rc 3 c
+rd 4 c
+pa
+pb
+pc
+pd
++a 2 b
++b 3 b
++c 4 b
++d 5 b
+pa
+pb
+pc
+pd
+q

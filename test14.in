@@ -1,0 +1,4 @@
+rb 1 2 2 3 4 5 x pb
++b 5 4 3 2 1 n pb
+rb 1 1 1 1 1 1 1 pb pb
++b 0 0 0 0 0 0 0 pb pb q
